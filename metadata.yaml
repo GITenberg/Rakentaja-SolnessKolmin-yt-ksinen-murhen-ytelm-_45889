@@ -1,0 +1,39 @@
+_repo: Rakentaja-SolnessKolmin-yt-ksinen-murhen-ytelm-_45889
+_version: 0.1.0
+alternative_title: Bygmester Solness. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2014-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45889'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architects -- Drama'
+- !lcsh 'Norwegian drama -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Rakentaja Solness: Kolminäytöksinen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/45889
